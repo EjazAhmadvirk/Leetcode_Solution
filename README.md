@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
