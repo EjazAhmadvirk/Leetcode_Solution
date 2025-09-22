@@ -14,6 +14,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0908-middle-of-the-linked-list) |
@@ -22,6 +23,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
@@ -59,4 +61,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
