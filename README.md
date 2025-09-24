@@ -76,5 +76,6 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
