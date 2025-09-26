@@ -31,6 +31,7 @@
 | [0015-3sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
