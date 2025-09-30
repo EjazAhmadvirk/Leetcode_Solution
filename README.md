@@ -103,4 +103,8 @@
 | [0016-3sum-closest](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
