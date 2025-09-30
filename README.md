@@ -43,12 +43,14 @@
 | [0088-merge-sorted-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
+| [0454-4sum-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0454-4sum-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0454-4sum-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0454-4sum-ii) |
 ## Binary Search
 |  |
 | ------- |
