@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
@@ -86,6 +88,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
