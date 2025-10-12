@@ -90,6 +90,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -99,6 +100,7 @@
 | [0005-longest-palindromic-substring](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Queue
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
