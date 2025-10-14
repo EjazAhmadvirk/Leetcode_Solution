@@ -47,6 +47,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -106,6 +107,7 @@
 | [0010-regular-expression-matching](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Queue
@@ -124,6 +126,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 ## Trie
 |  |
 | ------- |
