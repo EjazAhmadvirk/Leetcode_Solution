@@ -49,6 +49,7 @@
 | [0040-combination-sum-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0045-jump-game-ii) |
+| [0064-minimum-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -110,6 +111,7 @@
 | [0022-generate-parentheses](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0045-jump-game-ii) |
+| [0064-minimum-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Queue
@@ -173,4 +175,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
