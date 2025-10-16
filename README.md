@@ -13,6 +13,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
@@ -100,6 +101,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -110,6 +112,7 @@
 | [0010-regular-expression-matching](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0118-pascals-triangle) |
@@ -130,6 +133,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 ## Trie
 |  |
