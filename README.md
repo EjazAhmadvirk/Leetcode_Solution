@@ -46,6 +46,7 @@
 | [0027-remove-element](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0041-first-missing-positive) |
@@ -77,6 +78,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
