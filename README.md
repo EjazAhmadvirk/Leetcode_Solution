@@ -56,6 +56,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -122,6 +123,7 @@
 | [0044-wildcard-matching](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Queue
@@ -176,6 +178,7 @@
 | [0020-valid-parentheses](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 ## Backtracking
 |  |
@@ -194,6 +197,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
 ## Tree
 |  |
 | ------- |
@@ -214,4 +218,5 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
