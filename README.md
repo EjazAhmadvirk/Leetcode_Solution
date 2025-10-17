@@ -71,6 +71,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0454-4sum-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0454-4sum-ii) |
 ## Binary Search
@@ -107,6 +108,7 @@
 | [0044-wildcard-matching](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
@@ -185,6 +187,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0076-minimum-window-substring) |
 ## Matrix
 |  |
 | ------- |
