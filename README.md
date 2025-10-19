@@ -131,6 +131,7 @@
 | [0044-wildcard-matching](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -168,6 +169,7 @@
 | [0043-multiply-strings](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
@@ -231,4 +233,8 @@
 | [0042-trapping-rain-water](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
