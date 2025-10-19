@@ -214,14 +214,17 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0100-same-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -237,4 +240,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
