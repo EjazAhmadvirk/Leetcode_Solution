@@ -87,6 +87,7 @@
 | [0041-first-missing-positive](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0076-minimum-window-substring) |
 | [0290-word-pattern](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0454-4sum-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0454-4sum-ii) |
 ## Binary Search
@@ -128,6 +129,7 @@
 | [0076-minimum-window-substring](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -151,6 +153,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
