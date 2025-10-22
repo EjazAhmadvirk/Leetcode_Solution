@@ -54,6 +54,7 @@
 | [0031-next-permutation](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0041-first-missing-positive) |
@@ -84,6 +85,7 @@
 | [0013-roman-to-integer](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0076-minimum-window-substring) |
 | [0290-word-pattern](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0290-word-pattern) |
@@ -224,6 +226,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
