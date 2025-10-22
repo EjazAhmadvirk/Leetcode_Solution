@@ -60,6 +60,7 @@
 | [0042-trapping-rain-water](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -172,6 +173,7 @@
 | [0013-roman-to-integer](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0070-climbing-stairs) |
@@ -214,6 +216,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
 ## Tree
