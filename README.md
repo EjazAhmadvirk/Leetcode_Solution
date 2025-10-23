@@ -32,6 +32,7 @@
 | [0027-remove-element](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
@@ -66,6 +67,7 @@
 | [0064-minimum-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
@@ -195,6 +197,7 @@
 | [0016-3sum-closest](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 ## Database
 |  |
