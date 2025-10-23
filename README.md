@@ -65,6 +65,7 @@
 | [0048-rotate-image](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
@@ -98,6 +99,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
@@ -229,6 +231,7 @@
 | [0036-valid-sudoku](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
 ## Tree
 |  |
