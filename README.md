@@ -241,16 +241,19 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0110-balanced-binary-tree) |
 ## Simulation
 |  |
 | ------- |
