@@ -64,6 +64,7 @@
 | [0046-permutations](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0074-search-a-2d-matrix) |
@@ -90,6 +91,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0076-minimum-window-substring) |
 | [0290-word-pattern](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0383-ransom-note) |
@@ -130,6 +132,7 @@
 | [0038-count-and-say](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0076-minimum-window-substring) |
@@ -197,6 +200,7 @@
 | [0016-3sum-closest](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 ## Database
