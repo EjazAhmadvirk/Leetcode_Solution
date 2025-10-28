@@ -113,6 +113,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0089-gray-code) |
 | [0287-find-the-duplicate-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
@@ -195,6 +196,7 @@
 | [0066-plus-one](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
@@ -229,6 +231,7 @@
 | [0040-combination-sum-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0047-permutations-ii) |
+| [0089-gray-code](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0089-gray-code) |
 ## Sliding Window
 |  |
 | ------- |
