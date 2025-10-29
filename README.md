@@ -71,6 +71,7 @@
 | [0066-plus-one](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
@@ -139,6 +140,7 @@
 | [0058-length-of-last-word](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0383-ransom-note) |
@@ -232,6 +234,7 @@
 | [0040-combination-sum-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0089-gray-code) |
 ## Sliding Window
 |  |
@@ -247,6 +250,7 @@
 | [0059-spiral-matrix-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
 ## Tree
 |  |
@@ -257,6 +261,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0110-balanced-binary-tree) |
