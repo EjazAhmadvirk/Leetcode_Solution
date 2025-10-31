@@ -261,6 +261,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -268,12 +269,14 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0112-path-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -294,4 +297,5 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
