@@ -10,6 +10,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -38,6 +39,7 @@
 | [0075-sort-colors](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
