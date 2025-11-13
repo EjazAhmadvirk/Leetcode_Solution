@@ -84,6 +84,7 @@
 | [0059-spiral-matrix-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0079-word-search) |
@@ -159,6 +160,7 @@
 | [0049-group-anagrams](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0091-decode-ways) |
@@ -317,6 +319,7 @@
 | [0043-multiply-strings](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0068-text-justification) |
 ## Monotonic Stack
 |  |
 | ------- |
