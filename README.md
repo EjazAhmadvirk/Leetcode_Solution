@@ -89,6 +89,7 @@
 | [0064-minimum-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0079-word-search) |
@@ -118,6 +119,7 @@
 | [0037-sudoku-solver](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0076-minimum-window-substring) |
 | [0290-word-pattern](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0383-ransom-note) |
@@ -299,6 +301,7 @@
 | [0059-spiral-matrix-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
