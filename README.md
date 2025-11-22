@@ -172,6 +172,7 @@
 | [0072-edit-distance](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0097-interleaving-string) |
 | [0151-reverse-words-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
@@ -196,6 +197,7 @@
 | [0070-climbing-stairs](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0118-pascals-triangle) |
