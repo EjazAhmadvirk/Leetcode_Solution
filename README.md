@@ -109,6 +109,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0454-4sum-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0454-4sum-ii) |
 ## Hash Table
@@ -385,4 +386,8 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0148-sort-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
