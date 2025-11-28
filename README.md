@@ -30,6 +30,7 @@
 | [0050-powx-n](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [0090-subsets-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
@@ -260,6 +262,7 @@
 | [0070-climbing-stairs](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
 | ------- |
