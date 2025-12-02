@@ -23,6 +23,7 @@
 | [0206-reverse-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0382-linked-list-random-node) |
 | [0908-middle-of-the-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -292,6 +293,7 @@
 | [0189-rotate-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0371-sum-of-two-integers) |
+| [0382-linked-list-random-node](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0382-linked-list-random-node) |
 | [0415-add-strings](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Sorting
@@ -442,4 +444,12 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0225-implement-stack-using-queues) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
