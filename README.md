@@ -123,6 +123,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0189-rotate-array) |
@@ -151,6 +152,7 @@
 | [0076-minimum-window-substring](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -290,6 +292,7 @@
 | [0067-add-binary](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0089-gray-code) |
+| [0149-max-points-on-a-line](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0371-sum-of-two-integers) |
@@ -452,4 +455,8 @@
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0382-linked-list-random-node) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
