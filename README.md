@@ -72,6 +72,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0908-middle-of-the-linked-list) |
 ## Array
 |  |
@@ -236,6 +237,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0415-add-strings) |
 | [0567-permutation-in-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -262,6 +264,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0647-palindromic-substrings](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0647-palindromic-substrings) |
 ## Queue
 |  |
 | ------- |
