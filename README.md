@@ -141,6 +141,7 @@
 | [0454-4sum-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0561-array-partition) |
+| [0565-array-nesting](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0565-array-nesting) |
 ## Hash Table
 |  |
 | ------- |
@@ -411,6 +412,7 @@
 | [0112-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0565-array-nesting](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0565-array-nesting) |
 ## Binary Tree
 |  |
 | ------- |
