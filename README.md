@@ -71,6 +71,7 @@
 | [0287-find-the-duplicate-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0908-middle-of-the-linked-list) |
 ## Array
 |  |
@@ -169,6 +170,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0454-4sum-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -233,6 +235,7 @@
 | [0383-ransom-note](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0415-add-strings) |
+| [0567-permutation-in-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -374,6 +377,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
 | ------- |
