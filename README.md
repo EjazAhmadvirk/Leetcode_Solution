@@ -122,6 +122,7 @@
 | [0085-maximal-rectangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -159,6 +160,7 @@
 | [0049-group-anagrams](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
@@ -281,6 +283,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0148-sort-list) |
 ## Greedy
 |  |
@@ -404,6 +407,7 @@
 | [0100-same-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0112-path-sum) |
@@ -433,6 +437,7 @@
 | [0100-same-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0112-path-sum) |
