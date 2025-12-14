@@ -325,6 +325,7 @@
 | [0089-gray-code](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0149-max-points-on-a-line) |
+| [0172-factorial-trailing-zeroes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0371-sum-of-two-integers) |
