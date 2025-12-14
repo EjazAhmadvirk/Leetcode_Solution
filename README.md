@@ -200,6 +200,7 @@
 | [0090-subsets-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0371-sum-of-two-integers) |
@@ -291,6 +292,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0190-reverse-bits) |
 ## Greedy
 |  |
 | ------- |
