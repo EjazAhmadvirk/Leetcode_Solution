@@ -454,6 +454,7 @@
 | [0113-path-sum-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0207-course-schedule) |
 | [0565-array-nesting](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0565-array-nesting) |
 ## Binary Tree
 |  |
@@ -504,6 +505,7 @@
 | [0112-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0207-course-schedule) |
 ## Combinatorics
 |  |
 | ------- |
@@ -554,4 +556,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0200-number-of-islands) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
