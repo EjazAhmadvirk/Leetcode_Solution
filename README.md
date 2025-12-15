@@ -133,6 +133,7 @@
 | [0136-single-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0189-rotate-array) |
@@ -331,6 +332,7 @@
 | [0089-gray-code](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0227-basic-calculator-ii) |
@@ -372,6 +374,7 @@
 | [0085-maximal-rectangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0227-basic-calculator-ii) |
