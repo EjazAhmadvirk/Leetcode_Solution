@@ -447,6 +447,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -486,6 +487,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0450-delete-node-in-a-bst) |
 ## Simulation
 |  |
 | ------- |
@@ -564,6 +566,7 @@
 | [0099-recover-binary-search-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0450-delete-node-in-a-bst) |
 ## Union Find
 |  |
 | ------- |
