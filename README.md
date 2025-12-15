@@ -442,6 +442,7 @@
 | [0113-path-sum-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -458,6 +459,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0207-course-schedule) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0565-array-nesting](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0565-array-nesting) |
 ## Binary Tree
 |  |
@@ -479,6 +481,7 @@
 | [0113-path-sum-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Simulation
 |  |
 | ------- |
@@ -556,6 +559,7 @@
 | [0098-validate-binary-search-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Union Find
 |  |
 | ------- |
