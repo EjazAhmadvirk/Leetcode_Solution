@@ -484,6 +484,7 @@
 | [0200-number-of-islands](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0310-minimum-height-trees](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0310-minimum-height-trees) |
 | [0565-array-nesting](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0565-array-nesting) |
 ## Binary Tree
 |  |
@@ -542,6 +543,7 @@
 | [0133-clone-graph](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0310-minimum-height-trees) |
 ## Combinatorics
 |  |
 | ------- |
@@ -600,10 +602,12 @@
 | ------- |
 | [0133-clone-graph](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0310-minimum-height-trees) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0310-minimum-height-trees) |
 ## Binary Indexed Tree
 |  |
 | ------- |
