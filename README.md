@@ -18,6 +18,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0143-reorder-list) |
@@ -179,6 +180,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0149-max-points-on-a-line) |
