@@ -257,6 +257,7 @@
 | [0115-distinct-subsequences](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0242-valid-anagram) |
@@ -297,6 +298,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0132-palindrome-partitioning-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0647-palindromic-substrings](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0647-palindromic-substrings) |
 ## Queue
 |  |
