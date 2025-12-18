@@ -156,6 +156,7 @@
 | [0330-patching-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0454-4sum-ii) |
 | [0493-reverse-pairs](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0493-reverse-pairs) |
@@ -210,6 +211,7 @@
 | [0287-find-the-duplicate-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
@@ -304,6 +306,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0132-palindrome-partitioning-ii) |
+| [0410-split-array-largest-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0647-palindromic-substrings) |
 ## Queue
 |  |
@@ -340,6 +343,7 @@
 | [0134-gas-station](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0135-candy) |
 | [0330-patching-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0330-patching-array) |
+| [0410-split-array-largest-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0561-array-partition) |
 ## Trie
 |  |
@@ -584,6 +588,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 ## Design
 |  |
