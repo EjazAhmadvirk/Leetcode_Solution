@@ -273,6 +273,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0647-palindromic-substrings) |
