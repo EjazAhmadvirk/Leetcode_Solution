@@ -45,6 +45,7 @@
 | [0206-reverse-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0394-decode-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -268,6 +269,7 @@
 | [0344-reverse-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0567-permutation-in-string) |
@@ -411,6 +413,7 @@
 | [0225-implement-stack-using-queues](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0394-decode-string) |
 ## Backtracking
 |  |
 | ------- |
