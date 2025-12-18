@@ -1,0 +1,14 @@
+// OJ: https://leetcode.com/problems/convert-bst-to-greater-tree/
+// Time: O(N)
+// Space: O(H)
+class Solution {
+    int sum = 0;
+public:
+    TreeNode* convertBST(TreeNode* root) {
+        if (!root) return nullptr;
+        convertBST(root->right);
+        root->val = (sum += root->val);
+        convertBST(root->left);
+        return root;
+    }
+};
