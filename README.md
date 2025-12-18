@@ -489,6 +489,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0538-convert-bst-to-greater-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -511,6 +512,7 @@
 | [0207-course-schedule](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0310-minimum-height-trees](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0310-minimum-height-trees) |
+| [0538-convert-bst-to-greater-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0565-array-nesting](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0565-array-nesting) |
 ## Binary Tree
 |  |
@@ -538,6 +540,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0538-convert-bst-to-greater-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -624,6 +627,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0538-convert-bst-to-greater-tree) |
 ## Union Find
 |  |
 | ------- |
