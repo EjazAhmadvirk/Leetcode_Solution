@@ -22,6 +22,7 @@
 | [0141-linked-list-cycle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0206-reverse-linked-list) |
@@ -187,6 +188,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0242-valid-anagram) |
@@ -607,6 +609,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0225-implement-stack-using-queues) |
 ## Reservoir Sampling
@@ -663,4 +666,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0493-reverse-pairs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
