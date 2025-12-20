@@ -153,6 +153,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0200-number-of-islands) |
@@ -196,6 +197,7 @@
 | [0149-max-points-on-a-line](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0290-word-pattern) |
@@ -330,6 +332,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
@@ -343,6 +346,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0493-reverse-pairs) |
@@ -407,6 +411,7 @@
 | [0088-merge-sorted-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0242-valid-anagram) |
