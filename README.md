@@ -149,6 +149,7 @@
 | [0135-candy](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -192,6 +193,7 @@
 | [0127-word-ladder](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0146-lru-cache) |
@@ -278,6 +280,7 @@
 | [0127-word-ladder](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0179-largest-number) |
@@ -325,6 +328,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0139-word-break) |
 | [0410-split-array-largest-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0647-palindromic-substrings) |
 ## Queue
@@ -371,6 +375,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0139-word-break) |
 ## Math
 |  |
 | ------- |
@@ -604,6 +609,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0139-word-break) |
 ## Breadth-First Search
 |  |
 | ------- |
