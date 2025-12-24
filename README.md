@@ -289,6 +289,7 @@
 | [0227-basic-calculator-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -476,6 +477,7 @@
 | [0093-restore-ip-addresses](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0301-remove-invalid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -630,6 +632,7 @@
 | [0133-clone-graph](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0310-minimum-height-trees) |
 ## Combinatorics
 |  |
