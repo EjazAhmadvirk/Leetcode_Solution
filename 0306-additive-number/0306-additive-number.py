@@ -1,0 +1,25 @@
+class Solution:
+    def isAdditiveNumber(self, num: str) -> bool:
+
+        def dfs(startIndex: int, out: List[int]) -> bool:
+            # equal check is here
+            if len(out) >= 3 and out[-1] != out[-2] + out[-3]:
+                return False
+            if startIndex == len(num):
+                return len(out) >= 3
+
+            for i in range(startIndex, len(num)):
+                current = num[startIndex: i + 1]
+                if (len(current) > 1 and current[0] == '0'):
+                    break
+
+                out.append(int(current))
+                if dfs(i + 1, out):
+                    return True
+                out.pop()
+
+            return False
+
+        if not num:
+            return False
+        return dfs(0, [])
