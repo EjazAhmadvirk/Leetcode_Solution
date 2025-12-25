@@ -48,6 +48,7 @@
 | [0206-reverse-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0394-decode-string) |
 ## Two Pointers
 |  |
@@ -406,6 +407,7 @@
 | [0189-rotate-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0382-linked-list-random-node) |
 | [0415-add-strings](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0415-add-strings) |
