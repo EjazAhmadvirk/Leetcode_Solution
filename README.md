@@ -290,6 +290,7 @@
 | [0242-valid-anagram](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -478,6 +479,7 @@
 | [0113-path-sum-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0306-additive-number) |
 ## Sliding Window
 |  |
 | ------- |
