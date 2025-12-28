@@ -81,6 +81,7 @@
 | [0234-palindrome-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0443-string-compression) |
@@ -298,6 +299,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0394-decode-string) |
