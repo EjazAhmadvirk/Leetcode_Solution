@@ -294,6 +294,7 @@
 | [0227-basic-calculator-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0344-reverse-string) |
@@ -541,6 +542,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0538-convert-bst-to-greater-tree) |
 ## Depth-First Search
@@ -569,6 +571,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0310-minimum-height-trees) |
 | [0538-convert-bst-to-greater-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0565-array-nesting](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0565-array-nesting) |
@@ -602,6 +605,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0538-convert-bst-to-greater-tree) |
 ## Simulation
@@ -641,6 +645,7 @@
 | [0133-clone-graph](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0207-course-schedule) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0310-minimum-height-trees) |
 ## Combinatorics
@@ -670,6 +675,7 @@
 | [0155-min-stack](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0225-implement-stack-using-queues) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Reservoir Sampling
 |  |
 | ------- |
