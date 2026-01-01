@@ -31,6 +31,7 @@
 | [0234-palindrome-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0382-linked-list-random-node) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -577,6 +578,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0310-minimum-height-trees) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0538-convert-bst-to-greater-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0565-array-nesting](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0565-array-nesting) |
 ## Binary Tree
@@ -742,6 +744,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Bucket Sort
 |  |
 | ------- |
