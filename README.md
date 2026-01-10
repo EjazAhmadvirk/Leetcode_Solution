@@ -423,6 +423,7 @@
 | [0189-rotate-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0382-linked-list-random-node) |
@@ -629,6 +630,7 @@
 | [0059-spiral-matrix-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0415-add-strings) |
 ## Monotonic Stack
 |  |
@@ -769,4 +771,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
