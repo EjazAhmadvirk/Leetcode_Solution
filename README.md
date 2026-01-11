@@ -297,6 +297,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0290-word-pattern) |
@@ -775,4 +776,16 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0258-add-digits) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
