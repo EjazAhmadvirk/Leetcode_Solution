@@ -344,6 +344,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0139-word-break) |
@@ -549,6 +550,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0173-binary-search-tree-iterator) |
@@ -576,6 +578,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0133-clone-graph) |
@@ -613,6 +616,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0173-binary-search-tree-iterator) |
