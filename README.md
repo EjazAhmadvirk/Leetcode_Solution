@@ -171,6 +171,7 @@
 | [0238-product-of-array-except-self](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
+| [0304-range-sum-query-2d-immutable](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0330-patching-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -527,6 +528,7 @@
 | [0130-surrounded-regions](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0304-range-sum-query-2d-immutable) |
 ## Tree
 |  |
 | ------- |
@@ -687,6 +689,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 ## Design
@@ -697,6 +700,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0304-range-sum-query-2d-immutable](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0304-range-sum-query-2d-immutable) |
 ## Reservoir Sampling
 |  |
 | ------- |
