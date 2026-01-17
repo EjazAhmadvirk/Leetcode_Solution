@@ -165,6 +165,7 @@
 | [0189-rotate-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0229-majority-element-ii) |
@@ -424,6 +425,7 @@
 | [0168-excel-sheet-column-title](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0258-add-digits) |
@@ -783,6 +785,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0258-add-digits) |
 ## Rolling Hash
 |  |
@@ -796,4 +799,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0214-shortest-palindrome) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
