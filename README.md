@@ -168,6 +168,7 @@
 | [0204-count-primes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
@@ -351,6 +352,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0221-maximal-square) |
 | [0410-split-array-largest-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0647-palindromic-substrings) |
 ## Queue
@@ -529,6 +531,7 @@
 | [0085-maximal-rectangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0304-range-sum-query-2d-immutable) |
 ## Tree
