@@ -174,6 +174,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0307-range-sum-query-mutable) |
 | [0330-patching-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -382,6 +383,7 @@
 | [0190-reverse-bits](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0493-reverse-pairs) |
 ## Greedy
 |  |
@@ -706,6 +708,7 @@
 | [0225-implement-stack-using-queues](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0307-range-sum-query-mutable) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -755,10 +758,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
