@@ -179,6 +179,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0354-russian-doll-envelopes) |
+| [0376-wiggle-subsequence](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0454-4sum-ii) |
@@ -357,6 +358,7 @@
 | [0198-house-robber](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0221-maximal-square) |
 | [0354-russian-doll-envelopes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0354-russian-doll-envelopes) |
+| [0376-wiggle-subsequence](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0647-palindromic-substrings) |
 ## Queue
@@ -400,6 +402,7 @@
 | [0135-candy](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0330-patching-array) |
+| [0376-wiggle-subsequence](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0561-array-partition) |
 ## Trie
