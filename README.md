@@ -181,6 +181,7 @@
 | [0354-russian-doll-envelopes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0354-russian-doll-envelopes) |
 | [0376-wiggle-subsequence](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0410-split-array-largest-sum) |
+| [0447-number-of-boomerangs](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0457-circular-array-loop) |
@@ -225,6 +226,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0447-number-of-boomerangs](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0447-number-of-boomerangs) |
 | [0454-4sum-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -443,6 +445,7 @@
 | [0371-sum-of-two-integers](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0382-linked-list-random-node) |
 | [0415-add-strings](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0415-add-strings) |
+| [0447-number-of-boomerangs](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Sorting
 |  |
