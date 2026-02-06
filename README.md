@@ -173,6 +173,7 @@
 | [0238-product-of-array-except-self](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0307-range-sum-query-mutable) |
 | [0330-patching-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0330-patching-array) |
@@ -244,6 +245,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0354-russian-doll-envelopes) |
@@ -359,6 +361,7 @@
 | [0139-word-break](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0354-russian-doll-envelopes) |
 | [0376-wiggle-subsequence](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0410-split-array-largest-sum) |
