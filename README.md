@@ -169,6 +169,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0238-product-of-array-except-self) |
@@ -221,6 +222,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0290-word-pattern) |
@@ -531,6 +533,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
