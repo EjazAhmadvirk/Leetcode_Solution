@@ -450,6 +450,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0258-add-digits) |
@@ -755,6 +756,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0223-rectangle-area) |
 ## Counting Sort
 |  |
 | ------- |
