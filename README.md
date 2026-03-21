@@ -233,6 +233,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0389-find-the-difference) |
 | [0447-number-of-boomerangs](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0447-number-of-boomerangs) |
 | [0454-4sum-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0457-circular-array-loop) |
@@ -275,6 +276,7 @@
 | [0268-missing-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -328,6 +330,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0434-number-of-segments-in-a-string) |
@@ -485,6 +488,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0354-russian-doll-envelopes) |
+| [0389-find-the-difference](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0561-array-partition) |
 ## Database
 |  |
