@@ -86,6 +86,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0457-circular-array-loop) |
 | [0481-magical-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0481-magical-string) |
 | [0567-permutation-in-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0567-permutation-in-string) |
@@ -189,6 +190,7 @@
 | [0447-number-of-boomerangs](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0454-4sum-ii) |
+| [0455-assign-cookies](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0457-circular-array-loop) |
 | [0493-reverse-pairs](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -421,6 +423,7 @@
 | [0330-patching-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0330-patching-array) |
 | [0376-wiggle-subsequence](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0561-array-partition) |
 ## Trie
 |  |
@@ -489,6 +492,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0354-russian-doll-envelopes) |
 | [0389-find-the-difference](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0561-array-partition) |
 ## Database
 |  |
