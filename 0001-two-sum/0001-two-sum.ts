@@ -1,19 +1,14 @@
-function twoSum(arr: number[], target: number): number[] {
-    const map: { [key: number]: number } = {};
-    const ans: number[] = [];
+function twoSum(nums: number[], target: number): number[] {
+    const m: Map<number, number> = new Map();
 
-    for (let i = 0; i < arr.length; i++) {
-        const first = arr[i];
-        const second = target - first;
+    for (let i = 0; ; ++i) {
+        const x = nums[i];
+        const y = target - x;
 
-        if (second in map) {
-            ans.push(map[second]);
-            ans.push(i);
-            break;
+        if (m.has(y)) {
+            return [m.get(y)!, i];
         }
 
-        map[first] = i;
+        m.set(x, i);
     }
-
-    return ans;
 }
