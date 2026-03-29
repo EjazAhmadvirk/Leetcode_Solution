@@ -336,6 +336,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0443-string-compression) |
@@ -424,6 +425,7 @@
 | [0179-largest-number](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0330-patching-array) |
 | [0376-wiggle-subsequence](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0376-wiggle-subsequence) |
+| [0402-remove-k-digits](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0561-array-partition) |
@@ -525,6 +527,7 @@
 | [0227-basic-calculator-ii](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0402-remove-k-digits) |
 ## Backtracking
 |  |
 | ------- |
@@ -697,6 +700,7 @@
 | [0042-trapping-rain-water](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/EjazAhmadvirk/Leetcode_Solution/tree/master/0402-remove-k-digits) |
 ## Memoization
 |  |
 | ------- |
